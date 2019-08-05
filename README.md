@@ -18,6 +18,13 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(13).pdf" style="text-decoration:none;">Programming Amazon EC2</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(14).pdf" style="text-decoration:none;">Mastering AWS Lambda </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(15).pdf" style="text-decoration:none;">AWS Certified Solutions Architect Associate  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(16).pdf" style="text-decoration:none;">AWS Administration – The Definitive Guide</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(17).pdf" style="text-decoration:none;">Host Your Web Site in the Cloud: Amazon Web Services Made Easy </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/azw(18).pdf" style="text-decoration:none;">Amazon Web Services: Overview of Security Processes </a></b></li>
+
+
+
                                 
  
 </ul>
